@@ -22,7 +22,7 @@ project/
 - 📝 체계적인 회의록 관리
     - 노션 링크: https://www.notion.so/2a8564d9151c8045b74ad5457db17232?v=2a8564d9151c80ce83be000ca9a6cd14&source=copy_link
 - 👨‍🏫 멘토링 일지 추적
-    - 유지우:
+    - 유지우: https://velog.io/@dci06098/posts
     - 이용진:
     - 이현진: https://velog.io/@lhj1211/posts
     - 장준희: https://velog.io/@pian1524/posts
@@ -109,6 +109,7 @@ PR 제목 또는 본문에 다음 키워드를 사용하면 PR 머지 시 자동
 
 ## 연락처
 프로젝트 관련 문의사항이 있으시면 이슈를 생성해 주세요.
+
 
 
 
