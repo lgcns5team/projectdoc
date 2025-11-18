@@ -29,9 +29,9 @@ project/
     - 정영호: https://velog.io/@dudgh2328/posts
     - 지민우: https://velog.io/@jiminu/posts
     - 하지현: https://velog.io/@wlgusgk12/posts
-- 📚 프로젝트 문서화
+- 📚 아이디어 회의 보드 : https://www.figma.com/board/bPZehRVcGFtufYO0iwSqsn/Untitled?node-id=0-1&t=U9z2Tj7GOHQBykaZ-1
 - 🔄 Git 기반 버전 관리
-- 📋 이슈 및 작업 추적
+- 📋 지라 이슈 관리 : https://wnsgmlfe.atlassian.net/jira/software/projects/KAN/list
 - 📊 칸반 보드 (GitHub Projects)를 통한 작업 관리
 
 ## 시작하기
@@ -109,6 +109,7 @@ PR 제목 또는 본문에 다음 키워드를 사용하면 PR 머지 시 자동
 
 ## 연락처
 프로젝트 관련 문의사항이 있으시면 이슈를 생성해 주세요.
+
 
 
 
