@@ -26,7 +26,7 @@ project/
     - 이용진: https://velog.io/@lyj2174/posts
     - 이현진: https://velog.io/@lhj1211/posts
     - 장준희: https://velog.io/@pian1524/posts
-    - 정영호: https://velog.io/@dudgh2328/posts
+    - 정영호: https://velog.io/@dudgh2328/posts, https://startingfindmistake.tistory.com/
     - 지민우: https://velog.io/@jiminu/posts
     - 하지현: https://velog.io/@wlgusgk12/posts
 - 📚 아이디어 회의 보드 : https://www.figma.com/board/bPZehRVcGFtufYO0iwSqsn/Untitled?node-id=0-1&t=U9z2Tj7GOHQBykaZ-1
@@ -109,6 +109,7 @@ PR 제목 또는 본문에 다음 키워드를 사용하면 PR 머지 시 자동
 
 ## 연락처
 프로젝트 관련 문의사항이 있으시면 이슈를 생성해 주세요.
+
 
 
 
